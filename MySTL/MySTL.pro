@@ -16,3 +16,8 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp
+
+HEADERS += \
+    include/defalloc.h \
+    include/stl_config.h \
+    include/stl_alloc.h
